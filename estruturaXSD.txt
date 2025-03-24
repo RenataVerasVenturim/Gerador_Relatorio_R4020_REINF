@@ -1,0 +1,265 @@
+<Reinf xmlns="http://www.reinf.esocial.gov.br/schemas/envioLoteEventos/v1_03_02">
+<evtRetPJ>
+<ideEvento>4020
+<indRetif>1</indRetif> <!-- Exemplo de preenchimento -->
+<nrRecibo>123456789012345</nrRecibo> <!-- Exemplo de número de recibo -->
+<perApur>2022-12</perApur> <!-- Exemplo de período de apuração -->
+<tpAmb>1</tpAmb>
+<procEmi></procEmi>
+<verProc></verProc>
+<ideContri></ideContri>
+<tpInsc></tpInsc>
+<nrInsc></nrInsc>
+<infoComplContri></infoComplContri>
+<natJur></natJur>
+<ideEstab></ideEstab>
+<tpInscEstab></tpInscEstab>
+<nrInscEstab></nrInscEstab>
+<ideBenef></ideBenef>
+<cnpjBenef></cnpjBenef>
+<nmBenef></nmBenef>
+<isenImun></isenImun>
+<ideEvtAdic></ideEvtAdic>
+<idePgto></idePgto>
+<natRend></natRend>
+<observ></observ>
+<infoPgto></infoPgto>
+<dtFG></dtFG>
+<vlrBruto></vlrBruto>
+<indFciScp></indFciScp>
+<nrInscFciScp></nrInscFciScp>
+<percSCP></percSCP>
+<indJud></indJud>
+<paisResidExt></paisResidExt>
+<dtEscrCont></dtEscrCont>
+<observ></observ>
+<retencoes></retencoes>
+<vlrBaseIR></vlrBaseIR>
+<vlrIR></vlrIR>
+<vlrBaseAgreg></vlrBaseAgreg>
+<vlrAgreg></vlrAgreg>
+<vlrBaseCSLL></vlrBaseCSLL>
+<vlrCSLL></vlrCSLL>
+<vlrBaseCofins></vlrBaseCofins>
+<vlrCofins></vlrCofins>
+<vlrBasePP></vlrBasePP>
+<vlrPP></vlrPP>
+<infoProcRet></infoProcRet>
+<tpProcRet></tpProcRet>
+<nrProcRet></nrProcRet>
+<codSusp></codSusp>
+<vlrBaseSuspIR></vlrBaseSuspIR>
+<vlrNIR></vlrNIR>
+<vlrDepIR></vlrDepIR>
+<vlrBaseSuspCSLL></vlrBaseSuspCSLL>
+<vlrNCSLL></vlrNCSLL>
+<vlrDepCSLL></vlrDepCSLL>
+<vlrBaseSuspCofins></vlrBaseSuspCofins>
+<vlrNCofins></vlrNCofins>
+<vlrDepCofins></vlrDepCofins>
+<vlrBaseSuspPP></vlrBaseSuspPP>
+<vlrNPP></vlrNPP>
+<vlrDepPP></vlrDepPP>
+<infoProcJud></infoProcJud>
+<nrProc></nrProc>
+<indOrigRec></indOrigRec>
+<cnpjOrigRecurso></cnpjOrigRecurso>
+<desc></desc>
+<despProcJud></despProcJud>
+<vlrDespCustas></vlrDespCustas>
+<vlrDespAdvogados></vlrDespAdvogados>
+<ideAdv></ideAdv>
+<tpInscAdv></tpInscAdv>
+<nrInscAdv></nrInscAdv>
+<vlrAdv></vlrAdv>
+<infoPgtoExt></infoPgtoExt>
+<indNIF></indNIF>
+<nifBenef></nifBenef>
+<relFontPg></relFontPg>
+<frmTribut></frmTribut>
+<endExt></endExt>
+<dscLograd></dscLograd>
+<nrLograd></nrLograd>
+<complem></complem>
+<bairro></bairro>
+<cidade></cidade>
+<estado></estado>
+<codPostal></codPostal>
+<telef></telef>
+<id></id>
+<ds:Signature></ds:Signature>
+
+xsd= 
+Reinf, evtRetPJ, ideEvento, indRetif, nrRecibo, perApur, tpAmb, procEmi, verProc, ideContri, tpInsc, nrInsc, infoComplContri, natJur, ideEstab, tpInscEstab, nrInscEstab, ideBenef, cnpjBenef, nmBenef, isenImun, ideEvtAdic, idePgto, natRend, observ, infoPgto, dtFG, vlrBruto, indFciScp, nrInscFciScp, percSCP, indJud, paisResidExt, dtEscrCont, observ, retencoes, vlrBaseIR, vlrIR, vlrBaseAgreg, vlrAgreg, vlrBaseCSLL, vlrCSLL, vlrBaseCofins, vlrCofins, vlrBasePP, vlrPP, infoProcRet, tpProcRet, nrProcRet, codSusp, vlrBaseSuspIR, vlrNIR, vlrDepIR, vlrBaseSuspCSLL, vlrNCSLL, vlrDepCSLL, vlrBaseSuspCofins, vlrNCofins, vlrDepCofins, vlrBaseSuspPP, vlrNPP, vlrDepPP, infoProcJud, nrProc, indOrigRec, cnpjOrigRecurso, desc, despProcJud, vlrDespCustas, vlrDespAdvogados, ideAdv, tpInscAdv, nrInscAdv, vlrAdv, infoPgtoExt, indNIF, nifBenef, relFontPg, frmTribut, endExt, dscLograd, nrLograd, complem, bairro, cidade, estado, codPostal, telef, id, ds:Signature
+xml = <extracao>
+<dataExtracao>
+<qtdRegistros>
+<situacao>
+<CprDhConsultar>
+<codUgEmit>
+<anoDH>
+<codTipoDH>
+<numDH>
+<Registro>
+<Data_fato_gerador>
+<OB>
+<NP>
+<VALOR_OB>
+<dadosBasicos>
+<dtEmis>
+<dtVenc>
+<codUgPgto>
+<vlr>
+<txtObser>
+<vlrTaxaCambio>
+<txtProcesso>
+<dtAteste>
+<codCredorDevedor>
+<dtPgtoReceb>
+<docOrigem>
+<codIdentEmit>
+<numDocOrigem>
+<pco>
+<numSeqItem>
+<codSit>
+<codUgEmpe>
+<indrTemContrato>
+<pcoItem>
+<numEmpe>
+<codSubItemEmpe>
+<indrLiquidado>
+<numClassA>
+<numClassB>
+<numClassC>
+<deducao>
+<txtInscrA>
+<txtInscrB>
+<itemRecolhimento>
+<codRecolhedor>
+<vlrBaseCalculo>
+<vlrMulta>
+<vlrJuros>
+<vlrOutrasEnt>
+<vlrAtmMultaJuros>
+<predoc>
+<predocDARF>
+<codTipoDARF>
+<codRecurso>
+<dtPrdoApuracao>
+<vlrRctaBrutaAcum>
+<vlrPercentual>
+<vinculacao>
+<relPcoItem>
+<numSeqPai>
+<dadosPgto>
+<predocOB>
+<codTipoOB>
+<numDomiBancFavo>
+<banco>
+<agencia>
+<conta>
+<numDomiBancPgto>
+<centroCusto>
+<codCentroCusto>
+<mesReferencia>
+<anoReferencia>
+<codUgBenef>
+<codSIORG>
+<codNatDespDet>
+<docContabilizacao>
+<anoDocCont>
+<codTipoDocCont>
+<numDocCont>
+
+
+
+<xs:element name="Reinf">
+<xs:element name="evtRetPJ" minOccurs="1" maxOccurs="1">
+<xs:element name="ideEvento" minOccurs="1" maxOccurs="1">
+<xs:element name="indRetif" minOccurs="1" maxOccurs="1">
+<xs:element name="nrRecibo" minOccurs="0" maxOccurs="1">
+<xs:element name="perApur" minOccurs="1" maxOccurs="1">
+<xs:element name="tpAmb" minOccurs="1" maxOccurs="1">
+<xs:element name="procEmi" minOccurs="1" maxOccurs="1">
+<xs:element name="verProc" minOccurs="1" maxOccurs="1">
+<xs:element name="ideContri" minOccurs="1" maxOccurs="1">
+<xs:element name="tpInsc" minOccurs="1" maxOccurs="1">
+<xs:element name="nrInsc" minOccurs="1" maxOccurs="1">
+<xs:element name="infoComplContri" minOccurs="0" maxOccurs="1">
+<xs:element name="natJur" minOccurs="1" maxOccurs="1">
+<xs:element name="ideEstab" minOccurs="1" maxOccurs="1">
+<xs:element name="tpInscEstab" minOccurs="1" maxOccurs="1">
+<xs:element name="nrInscEstab" minOccurs="1" maxOccurs="1">
+<xs:element name="ideBenef" minOccurs="1" maxOccurs="1">
+<xs:element name="cnpjBenef" minOccurs="0" maxOccurs="1">
+<xs:element name="nmBenef" minOccurs="0" maxOccurs="1">
+<xs:element name="isenImun" minOccurs="0" maxOccurs="1">
+<xs:element name="ideEvtAdic" minOccurs="0" maxOccurs="1">
+<xs:element name="idePgto" minOccurs="1" maxOccurs="100">
+<xs:element name="natRend" minOccurs="1" maxOccurs="1">
+<xs:element name="observ" minOccurs="0" maxOccurs="1">
+<xs:element name="infoPgto" minOccurs="1" maxOccurs="999">
+<xs:element name="dtFG" minOccurs="1" maxOccurs="1">
+<xs:element name="vlrBruto" minOccurs="0" maxOccurs="1">
+<xs:element name="indFciScp" minOccurs="0" maxOccurs="1">
+<xs:element name="nrInscFciScp" minOccurs="0" maxOccurs="1">
+<xs:element name="percSCP" minOccurs="0" maxOccurs="1">
+<xs:element name="indJud" minOccurs="0" maxOccurs="1">
+<xs:element name="paisResidExt" minOccurs="0" maxOccurs="1">
+<xs:element name="dtEscrCont" minOccurs="0" maxOccurs="1">
+<xs:element name="observ" minOccurs="0" maxOccurs="1">
+<xs:element name="retencoes" minOccurs="0" maxOccurs="1">
+<xs:element name="vlrBaseIR" minOccurs="0" maxOccurs="1">
+<xs:element name="vlrIR" minOccurs="0" maxOccurs="1">
+<xs:element name="vlrBaseAgreg" minOccurs="0" maxOccurs="1">
+<xs:element name="vlrAgreg" minOccurs="0" maxOccurs="1">
+<xs:element name="vlrBaseCSLL" minOccurs="0" maxOccurs="1">
+<xs:element name="vlrCSLL" minOccurs="0" maxOccurs="1">
+<xs:element name="vlrBaseCofins" minOccurs="0" maxOccurs="1">
+<xs:element name="vlrCofins" minOccurs="0" maxOccurs="1">
+<xs:element name="vlrBasePP" minOccurs="0" maxOccurs="1">
+<xs:element name="vlrPP" minOccurs="0" maxOccurs="1">
+<xs:element name="infoProcRet" minOccurs="0" maxOccurs="50">
+<xs:element name="tpProcRet" minOccurs="1" maxOccurs="1">
+<xs:element name="nrProcRet" minOccurs="1" maxOccurs="1">
+<xs:element name="codSusp" minOccurs="0" maxOccurs="1">
+<xs:element name="vlrBaseSuspIR" minOccurs="0" maxOccurs="1">
+<xs:element name="vlrNIR" minOccurs="0" maxOccurs="1">
+<xs:element name="vlrDepIR" minOccurs="0" maxOccurs="1">
+<xs:element name="vlrBaseSuspCSLL" minOccurs="0" maxOccurs="1">
+<xs:element name="vlrNCSLL" minOccurs="0" maxOccurs="1">
+<xs:element name="vlrDepCSLL" minOccurs="0" maxOccurs="1">
+<xs:element name="vlrBaseSuspCofins" minOccurs="0" maxOccurs="1">
+<xs:element name="vlrNCofins" minOccurs="0" maxOccurs="1">
+<xs:element name="vlrDepCofins" minOccurs="0" maxOccurs="1">
+<xs:element name="vlrBaseSuspPP" minOccurs="0" maxOccurs="1">
+<xs:element name="vlrNPP" minOccurs="0" maxOccurs="1">
+<xs:element name="vlrDepPP" minOccurs="0" maxOccurs="1">
+<xs:element name="infoProcJud" minOccurs="0" maxOccurs="1">
+<xs:element name="nrProc" minOccurs="1" maxOccurs="1">
+<xs:element name="indOrigRec" minOccurs="1" maxOccurs="1">
+<xs:element name="cnpjOrigRecurso" minOccurs="0" maxOccurs="1">
+<xs:element name="desc" minOccurs="0" maxOccurs="1">
+<xs:element name="despProcJud" minOccurs="0" maxOccurs="1">
+<xs:element name="vlrDespCustas" minOccurs="1" maxOccurs="1">
+<xs:element name="vlrDespAdvogados" minOccurs="1" maxOccurs="1">
+<xs:element name="ideAdv" minOccurs="0" maxOccurs="99">
+<xs:element name="tpInscAdv" minOccurs="1" maxOccurs="1">
+<xs:element name="nrInscAdv" minOccurs="1" maxOccurs="1">
+<xs:element name="vlrAdv" minOccurs="0" maxOccurs="1">
+<xs:element name="infoPgtoExt" minOccurs="0" maxOccurs="1">
+<xs:element name="indNIF" minOccurs="1" maxOccurs="1">
+<xs:element name="nifBenef" minOccurs="0" maxOccurs="1">
+<xs:element name="relFontPg" minOccurs="1" maxOccurs="1">
+<xs:element name="frmTribut" minOccurs="1" maxOccurs="1">
+<xs:element name="endExt" minOccurs="0" maxOccurs="1">
+<xs:element name="dscLograd" minOccurs="0" maxOccurs="1">
+<xs:element name="nrLograd" minOccurs="0" maxOccurs="1">
+<xs:element name="complem" minOccurs="0" maxOccurs="1">
+<xs:element name="bairro" minOccurs="0" maxOccurs="1">
+<xs:element name="cidade" minOccurs="0" maxOccurs="1">
+<xs:element name="estado" minOccurs="0" maxOccurs="1">
+<xs:element name="codPostal" minOccurs="0" maxOccurs="1">
+<xs:element name="telef" minOccurs="0" maxOccurs="1">
+<xs:attribute name="id" use="required">
+<xs:element ref="ds:Signature"/>
