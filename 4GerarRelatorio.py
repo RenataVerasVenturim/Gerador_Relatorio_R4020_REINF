@@ -21,7 +21,7 @@ def extract_data_from_xml(root):
         valor_ob = cp.find(".//VALOR_OB").text if cp.find(".//VALOR_OB") is not None else ''
         cod_sit = cp.find(".//codSit").text if cp.find(".//codSit") is not None else ''
         txt_inscr_a = cp.find(".//txtInscrA").text if cp.find(".//txtInscrA") is not None else ''
-        txt_inscr_b = cp.find(".//txtInscrB").text if cp.find(".//txtInscrB") is not None else ''
+        txt_inscr_b = cp.find(".//deducao/txtInscrB").text if cp.find(".//deducao/txtInscrB") is not None else ''
         cod_recolhedor = cp.find(".//codRecolhedor").text if cp.find(".//codRecolhedor") is not None else ''
 
         # Valores de retenção
