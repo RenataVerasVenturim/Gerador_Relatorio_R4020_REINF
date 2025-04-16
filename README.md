@@ -1,4 +1,6 @@
-
+<h2>
+   Este programa gera um relatório reinf com a consolidação do xml gerado na extração siafi web com a relação de OB extraída do Tesouro Gerencial, para lançamento no E-CAC. O arquivo interface_API_REST.py é outro projeto, em desenvolvimento, para envio direto via WebService com API REST e token Dexon de autenticação serpro.
+</h2>   
    <ul><h2>Programas necessários:</h2>
      <li>VS CODE</li>
      <li>Python</li>
