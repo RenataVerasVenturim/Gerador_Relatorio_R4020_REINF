@@ -1,0 +1,6 @@
+openpyxl
+pandas
+pyinstaller
+lxml
+requests
+webdriver-manager
